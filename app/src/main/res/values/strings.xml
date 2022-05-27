@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Heroes For Hire</string>
+    <string name="superhero_name">SuperHero Name</string>
+    <string name="alterego">AlterEgo</string>
+    <string name="bio">Bio</string>
+    <string name="short_bio">Short Bio</string>
+    <string name="power">Power</string>
+    <string name="save">SAVE</string>
+    <string name="name">JESUS SALVADOR VALLES MACIEL 182310671</string>
+    <string name="Power">Power</string>
+</resources>
